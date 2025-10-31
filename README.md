@@ -100,13 +100,7 @@ It features a dynamic, scrollable layout with various sections like offers, loan
 
 ## ScreenShots/Demo
 
-[Drive Link](https://drive.google.com/drive/folders/1AWD3RutW2UZyRcL_fE8IA3VVwRjqMfii?usp=sharing)
-<img src="![WhatsApp Image 2025-11-01 at 00 16 23_1a9bcbb7](https://github.com/user-attachments/assets/72c8bacc-4846-4def-9963-d4ff5f383333)
-" alt="Screenshot 1" width="300"/>
-<img src="![WhatsApp Image 2025-11-01 at 00 16 22_27e01049](https://github.com/user-attachments/assets/cf5361f1-170e-49eb-9788-3c80cacc4896)
-" alt="Screenshot 2" width="300"/>
-<img src="![WhatsApp Image 2025-11-01 at 00 16 22_fa9d262d](https://github.com/user-attachments/assets/026cb7b6-6ad4-4ba7-8435-db0050593843)
-" alt="Screenshot 3" width="300"/>
+[Drive Link](https://drive.google.com/drive/folders/12oHmBb9VR-kulgKwq1oYrD6xiBw6A7NL?usp=sharing)
 
 ---
 ## **👨‍💻** **Author**
